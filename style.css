@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    top: 15%;
+    background: linear-gradient(to right, rgba(0, 225, 255), rgba(0, 255, 42));
+}
+
+h1 {
+    font: 600 3.5em cursive;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    width: 100%;
+}
+
+h2 {
+    font-family: serif;
+}
+
+p strong {
+    font: 900 1.5em sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.1em;
+}
